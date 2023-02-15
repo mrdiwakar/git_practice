@@ -4,3 +4,8 @@
 
 git coupled with github makes collaborating and keeping track of various projects easy for us.
 
+basic git commands: 
+1. git init: to initialize a repository.
+2. git status: to check whether any changes has been made and been tracked or not.
+3. git add <file_name> : to add the file to staging area (an area where all files must be kept in order to track any changes made in them)
+4. git commit: to commit all the changes into the git repository and save those changs permanently for future reference so that we can come back and have them modified incase if we need them to be.
